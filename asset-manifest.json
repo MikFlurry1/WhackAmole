@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WHACKAMOLE/static/css/main.589cbc3f.css",
+    "main.js": "/WHACKAMOLE/static/js/main.9bfbbce1.js",
+    "static/js/453.96453769.chunk.js": "/WHACKAMOLE/static/js/453.96453769.chunk.js",
+    "index.html": "/WHACKAMOLE/index.html",
+    "main.589cbc3f.css.map": "/WHACKAMOLE/static/css/main.589cbc3f.css.map",
+    "main.9bfbbce1.js.map": "/WHACKAMOLE/static/js/main.9bfbbce1.js.map",
+    "453.96453769.chunk.js.map": "/WHACKAMOLE/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.589cbc3f.css",
+    "static/js/main.9bfbbce1.js"
+  ]
+}
