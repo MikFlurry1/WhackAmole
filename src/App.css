@@ -1,0 +1,83 @@
+@keyframes bgColorSwitch {
+  from {
+  background-color: #379700;
+  }
+  to{
+  background-color: #6faa00;
+  }
+}
+@keyframes textColorSwitch {
+  from {
+    color: #000000;
+  }
+  to{
+    color: #4e4829;
+  }
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  animation:bgColorSwitch 3s infinite alternate;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  z-index: -1;
+}
+
+#title {
+  animation:textColorSwitch 3s infinite alternate;
+  position: absolute;
+  text-align: center;
+  top:-90px;
+  font-size: 100px;
+}
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px); 
+  gap: 150px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.hole {
+  width: 150px;
+  height: 150px;
+  background-color: #754515; 
+  border-radius: 50%; 
+  position: relative;
+  overflow: hidden;
+}
+.chosenone {
+  background-color: #ff8000!important; 
+}
+/* #score {
+  position : relative;
+  bottom:100px;
+  left:275px;
+}
+#timer {
+  position : relative;
+  left:30px;
+}
+#highScore {
+  position : relative;
+  top:75px;
+  right:220px;
+} */
+.display {
+  display: block!important;
+  position: relative;
+  top:350px;
+}
+
