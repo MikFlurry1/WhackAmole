@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WHACKAMOLE/static/css/main.589cbc3f.css",
-    "main.js": "/WHACKAMOLE/static/js/main.9bfbbce1.js",
-    "static/js/453.96453769.chunk.js": "/WHACKAMOLE/static/js/453.96453769.chunk.js",
-    "index.html": "/WHACKAMOLE/index.html",
-    "main.589cbc3f.css.map": "/WHACKAMOLE/static/css/main.589cbc3f.css.map",
-    "main.9bfbbce1.js.map": "/WHACKAMOLE/static/js/main.9bfbbce1.js.map",
-    "453.96453769.chunk.js.map": "/WHACKAMOLE/static/js/453.96453769.chunk.js.map"
+    "main.css": "/WhackAmole/static/css/main.589cbc3f.css",
+    "main.js": "/WhackAmole/static/js/main.3e972a0b.js",
+    "static/js/453.96453769.chunk.js": "/WhackAmole/static/js/453.96453769.chunk.js",
+    "index.html": "/WhackAmole/index.html",
+    "main.589cbc3f.css.map": "/WhackAmole/static/css/main.589cbc3f.css.map",
+    "main.3e972a0b.js.map": "/WhackAmole/static/js/main.3e972a0b.js.map",
+    "453.96453769.chunk.js.map": "/WhackAmole/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.589cbc3f.css",
-    "static/js/main.9bfbbce1.js"
+    "static/js/main.3e972a0b.js"
   ]
 }
